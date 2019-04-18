@@ -13,7 +13,7 @@ h1 {
 	text-align: center;
 	font-size: 60px;
 	line-height: 55px;
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 }
 
 h2 {
@@ -80,7 +80,7 @@ input[type=submit] {
 }
 
 main {
-	padding-bottom: 30px;
+	padding-bottom: 25px;
 	margin: 100px 140px;
 
 }
@@ -96,7 +96,7 @@ footer {
 	background: #495d32;
 	color: white;
 	text-align: center;
-	padding: 30px;
+	padding: 15px;
 	display: block;
 }
 
@@ -119,9 +119,9 @@ footer {
 .image {
 	display:block;
 	margin: auto;
-	max-width: 70%;
-	padding-top: 40px;
-	padding-bottom: 30px;
+	max-width: 60%;
+	padding-top: 30px;
+	padding-bottom: 25px;
 }
 
 .facebook {
